@@ -1,0 +1,21 @@
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+.bgimg {
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('./img/Resumepic.jpg');
+    min-height: 100%;
+}
+.fa{
+      padding-left: 10px;
+      font-size: 30px!important;
+}
+
+.logo {
+  -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+  filter: grayscale(100%); /* FF 35+ */
+}
+a{
+  text-decoration: none !important;
+}
